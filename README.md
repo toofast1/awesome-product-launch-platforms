@@ -20,6 +20,7 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 * [Product Hunt](https://www.producthunt.com) – Daily leaderboard for new tech products and apps.
 * [SaaSHub](https://www.saashub.com) – Software alternative marketplace and discovery platform.
 * [ScrollLaunch](https://www.scrolllaunch.com) – Weekly launch board and startup directory.
+* [StarTap](https://startap.cc) – Free startup directory with project pages, category browsing, and a 3D clicker game.
 * [Startup Base](https://startupbase.io) – Platform to discover and share new startups.
 * [Startup Stash](https://startupstash.com) – Curated directory of tools and resources for startups.
 * [Uneed](https://www.uneed.best) – Curated directory for web tools and apps.
