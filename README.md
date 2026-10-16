@@ -45,6 +45,7 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 ## Contributing
 
 Contributions are welcome! Please follow these guidelines when submitting a Pull Request:
+* Star the list
 * Keep descriptions short and simple.
 * Ensure entries inside each category are sorted **alphabetically**.
 * Make sure links are active and correct.
