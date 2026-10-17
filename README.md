@@ -5,7 +5,7 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 
 ## Featured
 
-* [LaunchOn.it](https://launchon.it) – Weekly product launch platform offering 7 days of visibility for indie software.
+* [LaunchOnIt](https://launchon.it) – Weekly product launch platform offering 7 days of visibility for indie software.
 
 ## General Directories & Launch Boards
 
