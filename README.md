@@ -16,6 +16,7 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 * [DevHunt](https://devhunt.org) – Launch platform for developer tools and open-source software.
 * [Fazier](https://fazier.com) – Daily product launches and community boards.
 * [Launching Next](https://www.launchingnext.com) – Curated directory of new startup ideas and launches.
+* [LaunchWren](https://launchwren.com) – Free weekly launch platform for indie makers, with peer feedback and public traffic stats.
 * [Microlaunch](https://microlaunch.net) – Launchpad and community for micro-SaaS and indie tools.
 * [Peerlist](https://peerlist.io) – Professional network for builders with product launching features.
 * [Product Hunt](https://www.producthunt.com) – Daily leaderboard for new tech products and apps.
