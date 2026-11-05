@@ -12,6 +12,7 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 * [AlternativeTo](https://alternativeto.net) – Crowd-sourced software recommendations and alternatives.
 * [BetaList](https://betalist.com) – Early-stage startups and pre-launch waitlists.
 * [BetaPage](https://betapage.co) – Discover and review early-stage startups and beta products.
+* [Boilerplates Directory](https://boilerplates.directory) – Directory comparing SaaS starter kits and boilerplates by stack, pricing model and features.
 * [DebutPin](https://debutpin.com) – Free launch platform for indie makers to ship products, get voted, and collect permanent pins.
 * [DevHunt](https://devhunt.org) – Launch platform for developer tools and open-source software.
 * [Fazier](https://fazier.com) – Daily product launches and community boards.
@@ -19,12 +20,14 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 * [Microlaunch](https://microlaunch.net) – Launchpad and community for micro-SaaS and indie tools.
 * [Peerlist](https://peerlist.io) – Professional network for builders with product launching features.
 * [Product Hunt](https://www.producthunt.com) – Daily leaderboard for new tech products and apps.
+* [PWA Directory](https://pwa.directory) – Curated directory of installable Progressive Web Apps.
 * [SaaSHub](https://www.saashub.com) – Software alternative marketplace and discovery platform.
 * [ScrollLaunch](https://www.scrolllaunch.com) – Weekly launch board and startup directory.
 * [StarTap](https://startap.cc) – Free startup directory with project pages, category browsing, and a 3D clicker game.
 * [Startup Base](https://startupbase.io) – Platform to discover and share new startups.
 * [Startup Stash](https://startupstash.com) – Curated directory of tools and resources for startups.
 * [Uneed](https://www.uneed.best) – Curated directory for web tools and apps.
+* [Web Apps Directory](https://webapps.directory) – Curated directory of web apps that run in the browser, from design and dev tools to games.
 
 ## AI Directories
 
