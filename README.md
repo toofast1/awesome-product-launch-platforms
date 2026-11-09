@@ -15,6 +15,7 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 * [DebutPin](https://debutpin.com) – Free launch platform for indie makers to ship products, get voted, and collect permanent pins.
 * [DevHunt](https://devhunt.org) – Launch platform for developer tools and open-source software.
 * [Fazier](https://fazier.com) – Daily product launches and community boards.
+* [Launchef](https://launchef.com) – Free launch platform with live upvotes, reviews and weekly awards; no paid spots or boosts.
 * [Launching Next](https://www.launchingnext.com) – Curated directory of new startup ideas and launches.
 * [Microlaunch](https://microlaunch.net) – Launchpad and community for micro-SaaS and indie tools.
 * [Peerlist](https://peerlist.io) – Professional network for builders with product launching features.
