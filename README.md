@@ -31,6 +31,7 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 * [AIxploria](https://www.aixploria.com) – Massive directory tracking thousands of AI tools categorized by use case.
 * [Future Tools](https://www.futuretools.io) – Curated directory highlighting innovative and emerging AI platforms.
 * [Futurepedia](https://www.futurepedia.io) – One of the largest directories for AI software and applications.
+* [KidCreatorTools](https://kidcreatortools.com) – Directory of AI tools for making children's content (story videos, kid voices, kids songs, picture books, coloring pages); free listing for makers.
 * [Public Prompts](https://www.publicprompts.art/) – AI tools directory with categorized browsing and paid, editorially reviewed owner submissions.
 * [There's An AI For That](https://theresanaiforthat.com) – Comprehensive task-based database of AI tools.
 * [Toolify.ai](https://toolify.ai) – AI application tracker and directory analyzing traffic and trends.
