@@ -19,6 +19,7 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 * [Microlaunch](https://microlaunch.net) – Launchpad and community for micro-SaaS and indie tools.
 * [Peerlist](https://peerlist.io) – Professional network for builders with product launching features.
 * [Product Hunt](https://www.producthunt.com) – Daily leaderboard for new tech products and apps.
+* [RoboDebut](https://robodebut.com) – Free directory of websites and startups where your coding agent submits the listing, reviewed by hand.
 * [SaaSHub](https://www.saashub.com) – Software alternative marketplace and discovery platform.
 * [ScrollLaunch](https://www.scrolllaunch.com) – Weekly launch board and startup directory.
 * [StarTap](https://startap.cc) – Free startup directory with project pages, category browsing, and a 3D clicker game.
