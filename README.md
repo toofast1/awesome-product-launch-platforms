@@ -28,7 +28,9 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 
 ## AI Directories
 
+* [AIHuntList](https://aihuntlist.com) – Navigation hub for 3,000+ AI apps across 200+ categories.
 * [AIxploria](https://www.aixploria.com) – Massive directory tracking thousands of AI tools categorized by use case.
+* [AITrustList](https://aitrustlist.com) – AI tools directory ranked by verified traffic and growth.
 * [Future Tools](https://www.futuretools.io) – Curated directory highlighting innovative and emerging AI platforms.
 * [Futurepedia](https://www.futurepedia.io) – One of the largest directories for AI software and applications.
 * [Public Prompts](https://www.publicprompts.art/) – AI tools directory with categorized browsing and paid, editorially reviewed owner submissions.
