@@ -10,6 +10,7 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 ## General Directories & Launch Boards
 
 * [AlternativeTo](https://alternativeto.net) – Crowd-sourced software recommendations and alternatives.
+* [Awesome Indie](https://awesomeindie.com) – Daily launch platform for indie makers, ranked by community upvotes.
 * [BetaList](https://betalist.com) – Early-stage startups and pre-launch waitlists.
 * [BetaPage](https://betapage.co) – Discover and review early-stage startups and beta products.
 * [DebutPin](https://debutpin.com) – Free launch platform for indie makers to ship products, get voted, and collect permanent pins.
