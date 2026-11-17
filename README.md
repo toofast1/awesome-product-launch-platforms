@@ -30,6 +30,7 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 ## AI Directories
 
 * [Add AI Directory](https://www.addaidirectory.com) – A curated directory of AI agents organized by category.
+* [AI-Vision](https://ai-vision.top) – Product Hunt for the AI era and Generative Engine Optimization (GEO) indexation platform.
 * [AIxploria](https://www.aixploria.com) – Massive directory tracking thousands of AI tools categorized by use case.
 * [Future Tools](https://www.futuretools.io) – Curated directory highlighting innovative and emerging AI platforms.
 * [Futurepedia](https://www.futurepedia.io) – One of the largest directories for AI software and applications.
