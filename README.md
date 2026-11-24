@@ -25,6 +25,7 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 * [StarTap](https://startap.cc) – Free startup directory with project pages, category browsing, and a 3D clicker game.
 * [Startup Base](https://startupbase.io) – Platform to discover and share new startups.
 * [Startup Stash](https://startupstash.com) – Curated directory of tools and resources for startups.
+* [The Useful Apps](https://theusefulmedia.com/apps/) – Launch site for Mac, iPhone, iPad and Apple Watch apps, with a free listing and share badge.
 * [Uneed](https://www.uneed.best) – Curated directory for web tools and apps.
 
 ## AI Directories
