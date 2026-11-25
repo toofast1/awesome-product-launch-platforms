@@ -13,6 +13,7 @@ A curated list of places to launch, promote, and share your startup, SaaS, AI to
 * [Awesome Indie](https://awesomeindie.com) – Daily launch platform for indie makers, ranked by community upvotes.
 * [BetaList](https://betalist.com) – Early-stage startups and pre-launch waitlists.
 * [BetaPage](https://betapage.co) – Discover and review early-stage startups and beta products.
+* [Builderoom](https://www.builderoom.com/en) – Free showcase for indie-made products, with listings drafted by AI from a single link.
 * [DebutPin](https://debutpin.com) – Free launch platform for indie makers to ship products, get voted, and collect permanent pins.
 * [DevHunt](https://devhunt.org) – Launch platform for developer tools and open-source software.
 * [Fazier](https://fazier.com) – Daily product launches and community boards.
